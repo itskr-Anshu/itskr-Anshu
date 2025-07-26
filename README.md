@@ -11,43 +11,46 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itskr-Anshu&icon=0&color=0)](https://visitcount.itsvg.in)
-🛠️ Skills
+<div style="font-family: 'Segoe UI', sans-serif; line-height: 1.6; font-size: 15px;">
 
-Languages: C++, Java, Python, C, HTML, CSS, Javascript
+  <h2>🛠️ Skills</h2>
+  <p><strong>Languages:</strong> C++, Java, Python, C, HTML, CSS, JavaScript</p>
+  <p><strong>Databases:</strong> MySQL, MongoDB</p>
+  <p><strong>Tools & Platforms:</strong> Git, GitHub</p>
 
-Databases: MYSQL, MongoDB
+  <hr>
 
-Tools & Platforms: Git, GitHub
----
+  <h2>📜 Certifications</h2>
+  <ul>
+    <li>🧠 <strong>CCNA Certified</strong> | Python Essentials 1 & 2 – Cisco</li>
+    <li>🤖 <strong>Google Virtual Internship:</strong> Generative AI</li>
+    <li>🔐 <strong>Introduction to CyberSecurity –</strong> Cisco</li>
+  </ul>
 
-📜 Certifications
+  <hr>
 
-🧠 CCNA Certified | Python Essentials 1 & 2 – Cisco
+  <h2>🏆 Achievements</h2>
+  <ul>
+    <li>🧩 Solved <strong>250+</strong> LeetCode problems</li>
+    <li>🧩 Solved <strong>200+</strong> GFG problems</li>
+    <li>💻 Participated in <strong>India Expo Mart 2025</strong> to showcase our project</li>
+    <li>🎯 Completed a hands-on cybersecurity job simulation with <strong>Deloitte via Forage</strong>, demonstrating practical skills in threat detection and analysis</li>
+  </ul>
 
-🤖 Google Virtual Internship: Generative AI
+  <hr>
 
-🔐 Introduction of CyberSecurity – Cisco
----
+  <h2>📫 Get in Touch</h2>
+  <p><strong>Email:</strong> kumaranshu6097@gmail.com</p>
+  <p><strong>Phone:</strong> +91 6200536895</p>
+  <p>
+    <strong>Online Profiles:</strong><br>
+    🌐 <a href="https://www.linkedin.com/in/anshu-kumar-871897298" target="_blank">LinkedIn</a> |
+    <a href="https://github.com/itskr-Anshu" target="_blank">GitHub</a> |
+    <a href="https://leetcode.com/u/Anshu_Kumar55/" target="_blank">LeetCode</a> |
+    <a href="https://www.geeksforgeeks.org/user/kumaransrnj2/" target="_blank">GFG</a>
+  </p>
 
-🏆 Achievements
-
-🧩 Solved 250+ Leetcode problems
-
-🧩 Solved 200+ GFG problems
-
-💻 Participated in India Expo Mart 2025 to showcase our Project. 
-
-🎯 Completed a hands-on Cybersecurity job simulation with Deloitte via Forage, demonstrating practical skills 
-   in threat detection and analysis. 
-   ---
-
-📫 Get in Touch
-
-📧 kumaranshu6097@gmail.com
-
-📞 +91 6200536895
-
-🌐 [LinkedIn] www.linkedin.com/in/anshu-kumar-871897298 | [GitHub] (https://github.com/itskr-Anshu) | [Leetcode] https://leetcode.com/u/Anshu_Kumar55/) | [GFG] https://www.geeksforgeeks.org/user/kumaransrnj2/
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
