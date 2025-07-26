@@ -1,3 +1,10 @@
+💫 Hi 👋, I'm Anshu Kumar
+A passionate AI Engineer || CyberSecurity Learner || Web Develper
+
+
+📫 How to reach me: Kumaranshu6097@gmail.com
+😄 Pronouns: Anshu
+⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anshu-kumar-871897298) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaranshu6097@gmail.com) 
