@@ -12,11 +12,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=itskr-Anshu&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+
 🛠️ Skills
 
 Languages: C++, Java, Python, C, HTML, CSS, Javascript
 Databases: MYSQL, MongoDB
 Tools & Platforms: Git, GitHub
+---
 
 📜 Certifications
 
@@ -24,6 +27,7 @@ Tools & Platforms: Git, GitHub
 🤖 Google Virtual Internship: Generative AI
 🔐 Introduction of CyberSecurity – Cisco
 
+---
 
 🏆 Achievements
 
@@ -33,7 +37,8 @@ Tools & Platforms: Git, GitHub
 🎯 Completed a hands-on Cybersecurity job simulation with Deloitte via Forage, demonstrating practical skills 
    in threat detection and analysis. 
 
-   
+   ---
+
 📫 Get in Touch
 
 📧 kumaranshu6097@gmail.com
