@@ -1,6 +1,6 @@
 💫 Hi 👋, I'm Anshu Kumar
 ---
-A passionate AI Engineer || CyberSecurity Learner || Web Develper
+AI Enthusiast || CyberSecurity Learner || Web Developer
 
 
 📫 How to reach me: Kumaranshu6097@gmail.com
