@@ -10,10 +10,10 @@ AI Enthusiast || CyberSecurity Learner || Web Developer
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anshu-kumar-871897298) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaranshu6097@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,13 +28,6 @@ AI Enthusiast || CyberSecurity Learner || Web Developer
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 
-
-  <h2>🛠️ Skills</h2>
-  <p><strong>Languages:</strong> C++, Java, Python, C, HTML, CSS, JavaScript</p>
-  <p><strong>Databases:</strong> MySQL, MongoDB</p>
-  <p><strong>Tools & Platforms:</strong> Git, GitHub</p>
-
-  <hr>
 
   <h2>📜 Certifications</h2>
   <ul>
