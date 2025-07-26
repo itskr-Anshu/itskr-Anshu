@@ -13,21 +13,29 @@
 [![](https://visitcount.itsvg.in/api?id=itskr-Anshu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 🛠️ Skills
+
 Languages: C++, Java, Python, C, HTML, CSS, Javascript
 Databases: MYSQL, MongoDB
 Tools & Platforms: Git, GitHub
 
 📜 Certifications
+
 🧠 CCNA Certified | Python Essentials 1 & 2 – Cisco
 🤖 Google Virtual Internship: Generative AI
 🔐 Introduction of CyberSecurity – Cisco
+
+
 🏆 Achievements
+
 🧩 Solved 250+ Leetcode problems
 🧩 Solved 200+ GFG problems
 💻 Participated in India Expo Mart 2025 to showcase our Project. 
 🎯 Completed a hands-on Cybersecurity job simulation with Deloitte via Forage, demonstrating practical skills 
    in threat detection and analysis. 
+
+   
 📫 Get in Touch
+
 📧 kumaranshu6097@gmail.com
 📞 +91 6200536895
 🌐 [LinkedIn] www.linkedin.com/in/anshu-kumar-871897298 | [GitHub] (https://github.com/itskr-Anshu) | [Leetcode] https://leetcode.com/u/Anshu_Kumar55/) | [GFG] https://www.geeksforgeeks.org/user/kumaransrnj2/
