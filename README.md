@@ -28,14 +28,6 @@ AI Enthusiast || CyberSecurity Learner || Web Developer
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itskr-Anshu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itskr-Anshu&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itskr-Anshu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=itskr-Anshu&icon=0&color=0)](https://visitcount.itsvg.in)
-<div style="font-family: 'Segoe UI', sans-serif; line-height: 1.6; font-size: 15px;">
 
   <h2>🛠️ Skills</h2>
   <p><strong>Languages:</strong> C++, Java, Python, C, HTML, CSS, JavaScript</p>
