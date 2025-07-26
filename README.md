@@ -36,7 +36,6 @@ AI Enthusiast || CyberSecurity Learner || Web Developer
     <li>🔐 <strong>Introduction to CyberSecurity –</strong> Cisco</li>
     <li>🤖 <strong>Introduction to Artificial Intelligence–</strong> Infosys</li>
     <li>🔐 <strong>Python Essentials 1 & 2 – Cisco</li>
-    <li>🧠 <strong>Cyber Job Simulation–</strong> Deloitte</li>
   </ul>
 
   <hr>
